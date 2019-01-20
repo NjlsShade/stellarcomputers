@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'GidoleRegular';
+        src: url('../font/GidoleRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'GidolinyaRegular';
+        src: url('../font/GidolinyaRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */
+
+@font-face {
+    font-family: 'Gidole';
+        src: url('../font/GidoleRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Gidolinya';
+        src: url('../font/GidolinyaRegular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
