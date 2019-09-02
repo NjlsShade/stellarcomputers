@@ -100,7 +100,7 @@
 
     // true:  reveals occur every time elements become visible
     // false: reveals occur once as elements become visible
-    reset: false,
+    reset: true,
 
     // 'always' — delay for all reveal animations
     // 'once'   — delay only the first time reveals occur
