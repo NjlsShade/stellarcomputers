@@ -16,7 +16,7 @@
 }(this, (function () { 'use strict';
 
 var defaults = {
-	delay: 0,
+	delay: 1,
 	distance: '0',
 	duration: 600,
 	easing: 'cubic-bezier(0.5, 0, 0, 1)',
@@ -33,7 +33,7 @@ var defaults = {
 	container: document.documentElement,
 	desktop: true,
 	mobile: true,
-	reset: false,
+	reset: true,
 	useDelay: 'always',
 	viewFactor: 0.0,
 	viewOffset: {
