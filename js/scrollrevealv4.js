@@ -16,7 +16,7 @@
 }(this, (function () { 'use strict';
 
 var defaults = {
-	delay: 1,
+	delay: 0,
 	distance: '0',
 	duration: 600,
 	easing: 'cubic-bezier(0.5, 0, 0, 1)',
@@ -29,7 +29,7 @@ var defaults = {
 		z: 0
 	},
 	scale: 1,
-	cleanup: false,
+	cleanup: true,
 	container: document.documentElement,
 	desktop: true,
 	mobile: true,
